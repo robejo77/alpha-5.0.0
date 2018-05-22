@@ -1,0 +1,41 @@
+{
+  "generator-ngx-rocket": {
+    "version": "5.0.0",
+    "props": {
+      "location": "path",
+      "appName": "alpha 5 0 0",
+      "target": [
+        "web"
+      ],
+      "pwa": true,
+      "ui": "material",
+      "layout": "side-menu",
+      "auth": true,
+      "lazy": true,
+      "angulartics": false,
+      "projectName": "alpha-5-0-0",
+      "packageManager": "npm",
+      "mobile": []
+    }
+  },
+  "generator-addon-firebase": {
+    "version": "1.1.0",
+    "props": {
+      "firebaseDeploy": true,
+      "appName": "alpha 5 0 0",
+      "projectName": "alpha-5-0-0",
+      "packageManager": "npm",
+      "location": "path",
+      "target": [
+        "web"
+      ],
+      "pwa": true,
+      "ui": "material",
+      "layout": "side-menu",
+      "auth": true,
+      "lazy": true,
+      "angulartics": false,
+      "mobile": []
+    }
+  }
+}
